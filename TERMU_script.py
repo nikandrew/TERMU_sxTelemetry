@@ -147,7 +147,7 @@ def convert_df(df):
 if __name__ == "__main__":
 
     df_ka = fill_coordinates("TERMU_KA.csv", "TERMU_KA.png")
-    df_opn = fill_coordinates("TERMU_OPN.csv", "TERMU_OPN.png")
+    df_opn = fill_coordinates("TERMU_OPN.csv", "TERMU_OPN.jpg")
 
     result = {
         "optional_views": {
